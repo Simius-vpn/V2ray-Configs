@@ -1,3 +1,6 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Simius-VPN
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.22:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20Simius-VPN
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:2087?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=Ws7KsKxZe0.MySpDmMeTi.CoM#%F0%9F%87%AB%F0%9F%87%AE%20Simius-VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7%20Simius-VPN
 vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@84.8.147.131:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=YAPC-1.afshin.ir#%F0%9F%87%AC%F0%9F%87%A7%20Simius-VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#%F0%9F%87%A6%F0%9F%87%AA%20Simius-VPN
@@ -15,7 +18,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#%F0%9F%87%B3%F0%9F%87%B1%20Simius-VPN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.35:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Simius-VPN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.39:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Simius-VPN
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20Simius-VPN
 vless://7c317161-5cf8-4cbc-811a-d1297c41bb23@84.8.147.131:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision-udp443&sni=YAPC-1.afshin.ir#%F0%9F%87%AC%F0%9F%87%A7%20Simius-VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#%F0%9F%87%AD%F0%9F%87%BA%20Simius-VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYd29IZnB2dWN6ekhPa09lYkdYaVVP@87.98.242.137:49551#%F0%9F%87%A9%F0%9F%87%AA%20Simius-VPN
