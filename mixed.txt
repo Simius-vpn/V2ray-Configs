@@ -77,4 +77,4 @@ ss://YWVzLTEyOC1nY206aDVxd2I2YzRhZGJ3eDMyandneDg%3D@130.0.235.254:17780#%F0%9F%8
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.72:8880?security=&encryption=none&type=grpc#%F0%9F%87%B1%F0%9F%87%B9Lithuania%20grpc%20012
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.82:8880?security=&encryption=none&type=grpc#%F0%9F%87%B1%F0%9F%87%B9Lithuania%20grpc%20012
 trojan://vpn@66.151.32.169:2025?path=%2F&security=none&host=vkvd127.mycdn.me&fp=chrome&type=ws#%F0%9F%92%B0%F0%9F%87%B3%F0%9F%87%B1%20NL%2066.151.32.169%20%E2%97%88%20ws%3A2025%20%E2%97%88%20Hostkey%20B.V.%20%E2%97%88%20910a1
-vless://time@update-time:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%93%85%20%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F%3A%2021.05.2025
+vless://time@update-time:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%93%85%20%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F%3A%2024.05.2025
