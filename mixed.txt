@@ -1,19 +1,14 @@
-trojan://vpn@91.108.241.73:2025?host=vkvd127.mycdn.me&path=%2F&security=none&type=ws#%F0%9F%92%B0%F0%9F%87%AB%F0%9F%87%AE%20FI%2091.108.241.73%20%E2%97%88%20ws:2025%20%E2%97%88%20Aeza%20International%20%E2%97%88%202e22f
-trojan://testme@212.113.102.67:2025?host=vkvd127.mycdn.me&path=%2F&security=none&type=ws#%F0%9F%92%B0%F0%9F%87%B8%F0%9F%87%AA%20SE%20212.113.102.67%20%E2%97%88%20ws:2025%20%E2%97%88%20xorek.cloud%20International%20%E2%97%88%20059b5
 vless://5e6eb9e2-6d92-4a7d-b98c-fd8a3feeca2c@157.180.90.185:80?encryption=none&host=civIc-poSitiOn.SEOtOolsFoRyou.CO.Uk.&path=%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AEFinland%20ws
 vless://762251cb-7337-4016-91e3-bb678e53183c@157.180.127.22:80?encryption=none&host=internet.life.com.by&path=%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AEFinland%20ws
 vless://f74d3c81-4150-4704-90f7-9ba5044a05bb@157.180.127.20:80?encryption=none&host=internet.life.com.by&path=%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AEFinland%20ws
 vless://9cba1041-c462-40f3-a658-446cb0b49778@157.180.127.19:80?encryption=none&host=internet.life.com.by&path=%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AEFinland%20ws
 vless://f6ed332d-a16a-4fc1-9c83-351d7307d177@157.180.88.215:80?encryption=none&host=internet.life.com.by&path=%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AEFinland%20ws
-trojan://vpn@138.124.24.174:2025?host=vkvd127.mycdn.me&path=%2F&security=none&type=ws#%F0%9F%92%B0%F0%9F%87%B8%F0%9F%87%AA%20SE%20138.124.24.174%20%E2%97%88%20ws:2025%20%E2%97%88%20Aeza%20International%20%E2%97%88%2028749
 vless://3bdf7eda-009e-4094-9e01-002515660d11@157.180.127.61:80?encryption=none&host=internet.life.com.by&path=%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AEFinland%20ws
-trojan://vpn@109.120.132.142:2025?host=vkvd127.mycdn.me&path=%2F&security=none&type=ws#%F0%9F%92%B0%F0%9F%87%B8%F0%9F%87%AA%20SE%20109.120.132.142%20%E2%97%88%20ws:2025%20%E2%97%88%20Aeza%20International%20%E2%97%88%2081c73
 vless://ce543f7d-c5b7-4350-982c-19ce91921ba3@157.180.127.18:80?encryption=none&host=google.com&path=%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AEFinland%20ws
 vless://216f7155-ed07-4b71-b5fc-dc3c65f66549@157.180.127.21:80?encryption=none&host=internet.life.com.by&path=%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AEFinland%20ws
 vless://f25e9c0b-986a-4e77-a493-31d73f379e6d@157.180.114.218:80?encryption=none&host=internet.life.com.by&path=%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AEFinland%20ws
 vless://5845b24e-82d5-4faf-aff9-5ca97752f3d4@157.180.88.141:80?encryption=none&host=internet.life.com.by&path=%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AEFinland%20ws
 vless://07a1c352-d554-4a3e-991c-294446944c37@157.180.127.17:80?encryption=none&host=internet.life.com.by&path=%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AEFinland%20ws
-trojan://vpn@77.232.142.179:2025?host=vkvd127.mycdn.me&path=%2F&security=none&type=ws#%F0%9F%92%B0%F0%9F%87%B8%F0%9F%87%AA%20SE%2077.232.142.179%20%E2%97%88%20ws:2025%20%E2%97%88%20Aeza%20International%20%E2%97%88%202a5c1
 vless://7411e60a-7f5f-4a90-bd46-e7dd2ade99f6@91.99.126.115:80?encryption=none&host=internet.life.com.by&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AAGermany%20ws
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@lama.tas-bazi.com:443?encryption=none&mode=stream-one&path=%2Ftas&security=tls&type=xhttp#Germany%20VIP%20tls
 vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@51.38.99.1:80?encryption=none&host=internet.life.com.by&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AAGermany%20ws
@@ -23,7 +18,6 @@ vless://9225702b-8063-47f1-833d-f045a32289fa@91.99.126.236:80?encryption=none&ho
 vless://c6c9308a-5a71-4cbd-ad89-64a0de25f619@91.99.126.117:80?encryption=none&host=internet.life.com.by&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AAGermany%20ws
 vless://0b225c9b-2b1d-4402-be26-eadc86376c1c@91.99.126.119:80?encryption=none&host=internet.life.com.by&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AAGermany%20ws
 vless://e0d929c1-d608-43b0-ba1b-d6185a90b859@91.99.126.121:80?encryption=none&host=internet.life.com.by&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AAGermany%20ws
-vless://71d3514b-df92-4c8e-8a84-7cc53efbdf1c@91.99.118.243:80?encryption=none&host=internet.life.com.by&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AAGermany%20ws
 vless://1e5b1941-cddb-4b1c-a1f7-a60e09c4c8fe@91.99.126.122:80?encryption=none&host=internet.life.com.by&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AAGermany%20ws
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?encryption=none&security=none&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%5Bopenproxylist.com%5D%20vless-GB
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@shima.tas-bazi.com:443?encryption=none&mode=stream-one&path=%2Ftas&security=tls&type=xhttp#Germany%20VIP%20tls
@@ -41,11 +35,9 @@ vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@fariba.tas-bazi.com:443?encryption=
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@zahra.tas-bazi.com:443?encryption=none&mode=stream-one&path=%2Ftas&security=tls&type=xhttp#Germany%20VIP
 vless://eee979e0-8262-448b-a13e-cad67b8f16e0@157.180.114.226:80?encryption=none&host=internet.life.com.by&path=%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AEFinland%20ws
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@sari.tas-bazi.com:443?encryption=none&mode=stream-one&path=%2Ftas&security=tls&type=xhttp#Germany%20VIP%20tls
-vless://c14b2731-7db6-49ee-9271-b1efc56c2630@146.59.15.81:443?encryption=none&fp=chrome&pbk=l8HS4g_h8xPWlhQm8hmj5ohKNMrMCBcoHSNBFij79Sk&security=reality&sid=5bb805&sni=dl.google.com&type=tcp#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%AB%F0%9F%87%B7%20FR-146.59.15.81:443
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@fantom.tas-bazi.com:443?alpn=h2&encryption=none&mode=stream-one&path=%2Ftas&security=tls&type=xhttp#Germany%20VIP
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@shams.tas-bazi.com:443?encryption=none&mode=stream-one&path=%2Ftas&security=tls&type=xhttp#Germany%20VIP%20tls
-vless://926e4c3a-447e-54e2-8ae3-3a747d3c6263@update-time:443?encryption=none&security=none&type=tcp#%F0%9F%93%85%20%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F:%2007.07.2025
-vless://4b60fbf1-6a49-4f80-bc09-899607143a8a@192.46.223.20:2321?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%5Bopenproxylist.com%5D%20vless-CA
+vless://926e4c3a-447e-54e2-8ae3-3a747d3c6263@update-time:443?encryption=none&security=none&type=tcp#%F0%9F%93%85%20%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F:%2009.07.2025
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?encryption=none&security=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%5Bopenproxylist.com%5D%20vless-FR%20(4)
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?encryption=none&security=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%5Bopenproxylist.com%5D%20vless-FR%20(5)
 vless://0d0782a3-2c62-4936-b893-5790188778ea@146.19.247.45:8080?encryption=none&host=internet.life.com.by&path=%2F&security=none&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AAGermany%20httpupgr%20(8ea)
@@ -101,7 +93,6 @@ vless://0d0782a3-2c62-4936-b893-5790188778ea@45.12.130.16:443?allowInsecure=1&en
 vless://0d0782a3-2c62-4936-b893-5790188778ea@45.12.142.98:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%B3%F0%9F%87%B1Netherlands%20ws+tls%20(8ea)
 vless://0d0782a3-2c62-4936-b893-5790188778ea@45.12.142.120:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%B3%F0%9F%87%B1Netherlands%20ws+tls%20(8ea)
 vless://0d0782a3-2c62-4936-b893-5790188778ea@171.22.117.56:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%B3%F0%9F%87%B1Netherlands%20ws+tls%20(8ea)
-vless://0d0782a3-2c62-4936-b893-5790188778ea@45.12.130.208:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%B3%F0%9F%87%B1Netherlands%20ws+tls%20(8ea)
 vless://0d0782a3-2c62-4936-b893-5790188778ea@171.22.117.223:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%B3%F0%9F%87%B1Netherlands%20ws+tls%20(8ea)
 vless://0d0782a3-2c62-4936-b893-5790188778ea@171.22.124.170:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%B3%F0%9F%87%B1Netherlands%20ws+tls%20(8ea)
 vless://0d0782a3-2c62-4936-b893-5790188778ea@45.8.145.133:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%B3%F0%9F%87%B1Netherlands%20ws+tls%20(8ea)
@@ -112,7 +103,6 @@ vless://0d0782a3-2c62-4936-b893-5790188778ea@171.22.117.133:443?allowInsecure=1&
 vless://0d0782a3-2c62-4936-b893-5790188778ea@45.12.130.230:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%B3%F0%9F%87%B1Netherlands%20ws+tls%20(8ea)
 vless://0d0782a3-2c62-4936-b893-5790188778ea@45.12.130.143:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%B3%F0%9F%87%B1Netherlands%20ws+tls%20(8ea)
 vless://0d0782a3-2c62-4936-b893-5790188778ea@146.19.233.22:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%B3%F0%9F%87%B1Netherlands%20ws+tls%20(8ea)
-vless://0d0782a3-2c62-4936-b893-5790188778ea@171.22.124.172:8443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%B3%F0%9F%87%B1Netherlands%20ws+tls%20(8ea)
 vless://0d0782a3-2c62-4936-b893-5790188778ea@45.12.130.31:8443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%B3%F0%9F%87%B1Netherlands%20ws+tls%20(8ea)
 vless://0d0782a3-2c62-4936-b893-5790188778ea@95.164.7.23:8443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%B3%F0%9F%87%B1Netherlands%20ws+tls%20(8ea)
 vless://0d0782a3-2c62-4936-b893-5790188778ea@185.234.247.232:8443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%B3%F0%9F%87%B1Netherlands%20ws+tls%20(8ea)
